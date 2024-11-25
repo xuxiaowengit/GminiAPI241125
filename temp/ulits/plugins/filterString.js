@@ -1,1 +1,0 @@
-var filterString={filter:function(r){var t=r.match(/(Y111|N000)/);return t?t[0]:null}};module.exports=filterString;

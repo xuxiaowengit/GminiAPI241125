@@ -2,7 +2,7 @@
   "name": "WICPOWER-AI-DAS",
   "version": "1.0.0",
   "scripts": {
-    "start": "node index.js"
+    "start": "node GminiRun.js"
   },
   "bin": "index.js",
   "targets": ["node14-win-x64"],
