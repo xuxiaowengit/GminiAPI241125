@@ -1,0 +1,1 @@
+function stringifyObject(t,i=null,n=0){return JSON.stringify(t,i,n)}module.exports=stringifyObject;

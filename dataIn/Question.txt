@@ -1,0 +1,7 @@
+.--All the text above is the content in a website. Determine if this website's content relates to the battery business,
+ energy storage, ESS products, renewable energy, UPS uninterruptible power supply, wind energy, marine batteries, hydrogen energy,
+ telecom tower power supply, farm power supply, PV solar panel installation, or the PV solar business. Exclude websites of magazines,
+ journals, investment firms, consulting firms, trade show organizers, electric vehicle batteries, electric bicycles, E-bikes, electric motorcycles,
+ button cells, AAA cylindrical batteries, sports and fitness-related websites, beverages, pharmaceutical companies, cell producers, toy companies,
+ food companies, and small online retail stores. Also, exclude websites that are retired, under construction, or offline. If relevant,
+ reply with 'Y111'; otherwise, reply with 'N000'. Only provide a numerical response without any analysis or explanation.

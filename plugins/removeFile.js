@@ -1,0 +1,1 @@
+const fs=require("fs"),path=require("path"),moveFile=(e,s,i)=>{const r=path.join(s,path.basename(e));fs.existsSync(s)||fs.mkdirSync(s,{recursive:!0}),fs.copyFile(e,r,(e=>{if(e)return i(e);i(null,"File copied successfully")}))};module.exports=moveFile;

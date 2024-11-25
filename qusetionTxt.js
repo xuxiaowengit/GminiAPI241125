@@ -1,0 +1,1 @@
+const fs=require("fs").promises;async function readFileContent(e){try{return await fs.readFile(e,"utf-8")}catch(e){console.error(`Error reading file: ${e.message}`)}}const qusetionRes=async()=>{try{return await readFileContent("./dataIn/Question.txt")}catch(e){console.error(`Error in qusetionRes: ${e.message}`)}};module.exports={qusetionRes:qusetionRes};
