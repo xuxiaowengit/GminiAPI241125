@@ -1,0 +1,1 @@
+function calculateProcessTime(e){const c=3.5*e;if(e<1500){return`${Math.ceil(c/60)} 分钟`}return`${(c/60/60).toFixed(2)} 小时`}module.exports=calculateProcessTime;

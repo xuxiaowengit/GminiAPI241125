@@ -42,6 +42,10 @@ yarn dev
 ```bash
 yarn build
 ```
+```bash
+git fetch --all
+git reset --hard origin/main 
+```
 
 ## 项目结构
 
