@@ -459,3 +459,14 @@
 2024-12-09T04:51:27.462Z: TypeError: Cannot set properties of undefined (setting 'code')
 2024-12-09T04:51:30.477Z: 文件处理完！共计:3个。
 2024-12-09T04:51:33.491Z: 完成全部3个文本数据处理！并保存了全部数据！
+2024-12-09T06:15:23.771Z: This is system log,下面是本次系统运行日志：
+2024-12-09T06:15:32.078Z: TypeError: Cannot set properties of undefined (setting 'code')
+2024-12-09T06:15:43.779Z: This is system log,下面是本次系统运行日志：
+2024-12-09T06:15:57.906Z: 文件处理完！共计:3个。
+2024-12-09T06:16:00.925Z: 完成全部3个文本数据处理！并保存了全部数据！
+2024-12-09T06:17:06.653Z: This is system log,下面是本次系统运行日志：
+2024-12-09T06:17:15.571Z: This is system log,下面是本次系统运行日志：
+2024-12-09T06:17:17.096Z: result为空:{"reqStatus":"ErrorResponse","error":{"error":{"code":400,"message":"Permission denied: Consumer 'api_key:AIzaSyCN9OF0eG1wn4sLAddam0tKjSauNNq94FI' has been suspended.","status":"PERMISSION_DENIED","details":[{"@type":"type.googleapis.com/google.rpc.ErrorInfo","reason":"CONSUMER_SUSPENDED","domain":"googleapis.com","metadata":{"consumer":"projects/708229835778","service":"generativelanguage.googleapis.com"}}]}}}
+2024-12-09T06:17:29.790Z: 文件处理完！共计:3个。
+2024-12-09T06:17:32.822Z: 完成全部3个文本数据处理！并保存了全部数据！
+2024-12-09T06:17:37.670Z: This is system log,下面是本次系统运行日志：
